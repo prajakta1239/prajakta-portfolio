@@ -27,7 +27,7 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, Javascript, HTML, CSS and Bootstrap
+          React, Next.js, Javascript, HTML, CSS and Bootstrap
         </span>
         . I am also familiar with WordPress and SEO things. I am always looking to
         learn new technologies. I am currently looking for a{" "}
@@ -37,12 +37,12 @@ export default function About() {
 
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing
-        games, watching movies, and playing with my dog. I also enjoy{" "}
+        games, watching movies, and playing with my cat. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
-        <span className="font-medium">ethics and linguistics</span>. I'm also
-        learning how to play the guitar.
-      </p>
+        <span className="font-medium">ethics and linguistics</span>. I am also trying my hand at cooking
+         new recipes.
+ </p>
     </motion.section>
   );
 }
