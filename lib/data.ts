@@ -56,21 +56,21 @@ export const projectsData = [
     description:
       "I worked as a front-end developer on this WordPress project. Developed of Responsive Web Pages as per design of Revamp website.",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "WordPress"],
-    imageUrl: "/decix.png",
+    imageUrl: "/Decix.png",
   },
   {
     title: "SparkLet",
     description:
       "It's an Event project. It has features like search, date and location filter, sign in, sign up and browse event category and we can like and share events, also we can book an event.",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery"],
-    imageUrl: "/sparklet.png",
+    imageUrl: "/Sparklet.png",
   },
   {
     title: "RWFK Internationale Transport & Logistik GmbH",
     description:
       "Developed website layout and new web pages from scratch. Added filter feature and used dataTables.",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery"],
-    imageUrl: "/rwfk.png",
+    imageUrl: "/Rwfk.png",
   },
   {
     title: "BCG Union Bank",
